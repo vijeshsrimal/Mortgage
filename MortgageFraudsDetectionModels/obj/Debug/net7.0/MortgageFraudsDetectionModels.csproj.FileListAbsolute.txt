@@ -1,0 +1,12 @@
+C:\Users\6143440\Documents\MortgageFraudsDetectionModels\bin\Debug\net7.0\MortgageFraudsDetectionModels.deps.json
+C:\Users\6143440\Documents\MortgageFraudsDetectionModels\bin\Debug\net7.0\MortgageFraudsDetectionModels.dll
+C:\Users\6143440\Documents\MortgageFraudsDetectionModels\bin\Debug\net7.0\MortgageFraudsDetectionModels.pdb
+C:\Users\6143440\Documents\MortgageFraudsDetectionModels\obj\Debug\net7.0\MortgageFraudsDetectionModels.csproj.AssemblyReference.cache
+C:\Users\6143440\Documents\MortgageFraudsDetectionModels\obj\Debug\net7.0\MortgageFraudsDetectionModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6143440\Documents\MortgageFraudsDetectionModels\obj\Debug\net7.0\MortgageFraudsDetectionModels.AssemblyInfoInputs.cache
+C:\Users\6143440\Documents\MortgageFraudsDetectionModels\obj\Debug\net7.0\MortgageFraudsDetectionModels.AssemblyInfo.cs
+C:\Users\6143440\Documents\MortgageFraudsDetectionModels\obj\Debug\net7.0\MortgageFraudsDetectionModels.csproj.CoreCompileInputs.cache
+C:\Users\6143440\Documents\MortgageFraudsDetectionModels\obj\Debug\net7.0\MortgageFraudsDetectionModels.dll
+C:\Users\6143440\Documents\MortgageFraudsDetectionModels\obj\Debug\net7.0\refint\MortgageFraudsDetectionModels.dll
+C:\Users\6143440\Documents\MortgageFraudsDetectionModels\obj\Debug\net7.0\MortgageFraudsDetectionModels.pdb
+C:\Users\6143440\Documents\MortgageFraudsDetectionModels\obj\Debug\net7.0\ref\MortgageFraudsDetectionModels.dll
